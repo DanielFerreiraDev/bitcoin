@@ -1,4 +1,4 @@
-package br.com.alura.service;
+package br.com.alura.services;
 
 import br.com.alura.model.Bitcoin;
 import org.eclipse.microprofile.rest.client.inject.RegisterRestClient;
