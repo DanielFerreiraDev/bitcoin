@@ -1,9 +1,6 @@
 package br.com.alura.model;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
+import javax.persistence.*;
 import java.time.LocalDate;
 
 @Entity
@@ -21,7 +18,8 @@ public class Ordem {
 
     private String status;
 
-    private Long user_id;
+    @Column(name = "user_id")
+    private Long userId;
 
     public Double getPreco() {
         return preco;
@@ -55,11 +53,11 @@ public class Ordem {
         this.status = status;
     }
 
-    public Long getUser_id() {
-        return user_id;
+    public Long getUserId() {
+        return userId;
     }
 
-    public void setUser_id(Long user_id) {
-        this.user_id = user_id;
+    public void setUserId(Long userId) {
+        this.userId = userId;
     }
 }
