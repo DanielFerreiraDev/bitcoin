@@ -1,43 +1,43 @@
 # BITCOIN ##
 
-This project was built with the objective of demonstrating a Java application with Quarkus.
+Esse projeto foi construido com o objetivo de demonstrar uma aplicação Java com Quarkus
 
 ## Index ##
 
-- [ Objective ](#objective)
-- [ Responsibles and contributors ](#responsibles)
-- [ Features ](#features)
-- [ System Demo ](#demo)
-- [ Technologies ](#technologies)
-- [ Prerequisites ](#prerequisites)
-- [ Build ](#build)
+- [ Objetivo ](#objetivo)
+- [ Responsáveis e Contribuidores ](#responsaveis)
+- [ Funcionalidades ](#funcionalidades)
+- [ Demonstração da Aplicação ](#demonstracao)
+- [ Tecnologias ](#tecnologias)
+- [ Pré-requisitos ](#pre-requisitos)
+- [ Construção (Build) ](#build)
 
-<a name="objective"></a>
-### Objective ###
-
-
-<a name="responsibles"></a>
-###  Responsibles and Contributors ###
+<a name="objetivo"></a>
+### Objetivo ###
 
 
-<a name="features"></a>
-### Features ###
+<a name="responsaveis"></a>
+###  Responsáveis e Contribuidores ###
 
 
-<a name="demo"></a>
-### System Demo ###
+<a name="funcionalidades"></a>
+### Funcionalidades ###
 
 
-<a name="technologies"></a>
+<a name="demonstracao"></a>
+### Demonstração da Aplicação ###
+
+
+<a name="tecnologias"></a>
 ### Technologies ###
 
 
-<a name="prerequisites"></a>
-### Prerequisites ###
+<a name="pre-requisitos"></a>
+### Pré-requisitos ###
 
 
 <a name="build"></a>
-### Build ###
+### Construção (Build) ###
 
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
