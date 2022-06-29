@@ -1,4 +1,4 @@
-package br.com.alura.resources;
+package br.com.alura.resource;
 
 import br.com.alura.model.Usuario;
 

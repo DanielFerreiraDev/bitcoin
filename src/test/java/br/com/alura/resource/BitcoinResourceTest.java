@@ -1,4 +1,4 @@
-package br.com.alura.resources;
+package br.com.alura.resource;
 
 import io.quarkus.test.junit.QuarkusTest;
 import io.restassured.RestAssured;

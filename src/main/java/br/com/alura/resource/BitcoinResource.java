@@ -1,7 +1,7 @@
-package br.com.alura.resources;
+package br.com.alura.resource;
 
 import br.com.alura.model.Bitcoin;
-import br.com.alura.services.BitcoinService;
+import br.com.alura.service.BitcoinService;
 import org.eclipse.microprofile.rest.client.inject.RestClient;
 
 import javax.inject.Inject;
