@@ -72,7 +72,7 @@ public class Usuario extends PanacheEntityBase {
     }
 
     private static String validarUsername(String username) {
-        if(username.equals("admin")) {
+        if (username.equals("admin")) {
             return "admin";
         } return "user";
     }
